@@ -1,2 +1,2 @@
 # learning-git
-My first Git repo using cmder
+This Repo was created to learn Git :D
